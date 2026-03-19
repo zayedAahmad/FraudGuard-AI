@@ -23,11 +23,11 @@ Zayed Jawarneh
 # Screenshots
 
 Dashboard
-![Dashboard](assets/one.png)
+![Dashboard](assets/one.PNG)
 
 ## Results
-![Results](assets/two.png)
-![Results](assets/three.png)
+![Results](assets/two.PNG)
+![Results](assets/three.PNG)
 
 ### API
-![API](assets/api_docs.png)
+![API](assets/api_docs.PNG)
